@@ -49,7 +49,7 @@
       "etat": "boite/1",
       "auteur": "Wallace Wang",
       "résumé": "Avec Apprendre à programmer Pour les Nuls, il n'est pas question de faire de vous un programmateur professionnel en quelques jours mais de vous mettre le pied à l'étrier afin de vous apprendre à développer des programmes dans un langage structuré. En quelques heures vous deviendrez familier avec la structure de base de données, les opérateurs, les instructions conditionnelles, la gestion des tableaux, etc. Vous apprendrez également les bases du langage HTML, le langage d'Internet.",
-      "image:": "https://m.media-amazon.com/images/I/51CFHW0ZAHL._SX218_BO1,204,203,200_QL40_ML2_.jpg"
+      "image": "https://m.media-amazon.com/images/I/51CFHW0ZAHL._SX218_BO1,204,203,200_QL40_ML2_.jpg"
     },
     {
       "id": 2,
@@ -57,7 +57,7 @@
       "etat": "boite/1",
       "auteur": "John Wick",
       "résumé": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber-espace. À cheval entre deux mondes, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui-ci l'exhorte à aller au-delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est-ce que la Matrice ?",
-        "image:": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27RZmyUZwX55xEBH5QBov-qxsC6Xo2ISG1SnQ1g7m_k7rlmJFCI3cNtFxPfHKaYCWFvo"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27RZmyUZwX55xEBH5QBov-qxsC6Xo2ISG1SnQ1g7m_k7rlmJFCI3cNtFxPfHKaYCWFvo"
     },
     {
       "id": 3,
@@ -65,7 +65,7 @@
       "etat": "user/03b04b8e-1b73-4954-a4d8-fb76a6feda19",
       "auteur": "John Weak",
       "résumé": "La série raconte l'histoire d'une singularité technologique.",
-        "image:": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27RZmyUZwX55xEBH5QBov-qxsC6Xo2ISG1SnQ1g7m_k7rlmJFCI3cNtFxPfHKaYCWFvo"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27RZmyUZwX55xEBH5QBov-qxsC6Xo2ISG1SnQ1g7m_k7rlmJFCI3cNtFxPfHKaYCWFvo"
     },
     {
       "id": 4,
@@ -73,7 +73,7 @@
       "etat": "boite/2",
       "auteur": "George Orwell",
       "résumé": "De tous les carrefours importants, le visage à la moustache noire vous fixait du regard. BIG BROTHER VOUS REGARDE, répétait la légende, tandis que le regard des yeux noirs pénétrait les yeux de Winston... Au loin, un hélicoptère glissa entre les toits, plana un moment, telle une mouche bleue, puis repartit comme une flèche, dans un vol courbe. C'était une patrouille qui venait mettre le nez aux fenêtres des gens. Mais les patrouilles n'avaient pas d'importance. Seule comptait la Police de la Pensée.",
-        "image:": "https://m.media-amazon.com/images/I/416azrBADJL._SY291_BO1,204,203,200_QL40_ML2_.jpg"
+        "image": "https://m.media-amazon.com/images/I/416azrBADJL._SY291_BO1,204,203,200_QL40_ML2_.jpg"
     },
     {
       "id": 5,
@@ -81,7 +81,7 @@
       "etat": "boite/3",
       "auteur": "Gilbert Delahaye",
       "résumé": "Martine, l'héroïne, est une petite fille d'une dizaine d'années qui vit des « aventures » simples ancrées dans le quotidien. Phénomène de l'édition, une centaine de millions d'exemplaires d'albums de la série, dont plus d'un quart en langues étrangères, se sont vendus dans une trentaine de pays",
-        "image:": "https://ds.static.rtbf.be/article/image/1239x1920/1/f/5/fddf5b2d79863e0a6a7ca3a6e3361db2-1401802756.jpg"
+        "image": "https://ds.static.rtbf.be/article/image/1239x1920/1/f/5/fddf5b2d79863e0a6a7ca3a6e3361db2-1401802756.jpg"
     }]
   }
   
